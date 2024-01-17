@@ -3,7 +3,11 @@
 <html lang= "en">
 <head>
 <meta charset= "utf-8">
-<style> h1 { text-align: center;}</style>
+<style> 
+  h1 { 
+    text-align: center;
+  }
+</style>
 <title> ITMD 361-01 lab </title>
 </head>
   
