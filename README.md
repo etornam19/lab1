@@ -1,7 +1,7 @@
 <!Doctype html>
-<html lang= "en">
+<html lang="en">
 <head>
-  <meta charset= "utf-8">
+  <meta charset="utf-8">
   <style> 
   h1 { 
     text-align: center;
